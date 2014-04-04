@@ -10,7 +10,10 @@ ZSH_THEME="alisonmajor"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias be="bundle exec "
+alias be="bundle exec"
+alias ber="bundle exec rake"
+alias subl='open -a "Sublime Text"'
+export EDITOR="subl"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
