@@ -7,13 +7,14 @@ ZSH=$HOME/.oh-my-zsh
 # time that oh-my-zsh is loaded.
 ZSH_THEME="alisonmajor"
 
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
+# Aliases
 alias be="bundle exec"
-alias ber="bundle exec rake"
+alias ber="be rake"
+# alias subl="’/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'"
 alias subl='open -a "Sublime Text"'
 export EDITOR="subl"
+alias zshconfig="subl ~/.zshrc"
+alias ohmyzsh="subl ~/.oh-my-zsh"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
