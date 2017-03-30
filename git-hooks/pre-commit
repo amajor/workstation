@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# This prevents commits from happening in your local master branch.
+if test $(git rev-parse --abbrev-ref HEAD) = "master" ; then
+  echo "Cannot commit on master. Please create a new branch."
+  exit 1
+fi
