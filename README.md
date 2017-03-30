@@ -23,9 +23,21 @@ Once installed, click on Preferences and set up your account under the
 
 https://www.google.com/chrome/browser/features.html
 
+### Alfred
+
+https://www.alfredapp.com/
+
 ### Dropbox
 
 https://www.dropbox.com/downloading
+
+### Skitch
+
+https://evernote.com/skitch/
+
+### Aerial Screensaver
+
+https://github.com/JohnCoates/Aerial
 
 ## Terminal
 
