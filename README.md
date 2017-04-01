@@ -41,7 +41,4 @@ https://github.com/JohnCoates/Aerial
 
 ## Terminal
 
-I use [Oh My Zsh](http://ohmyz.sh/).
-
-Give [base16 themes](https://chriskempson.github.io/base16/) a try for your
-Terminal profile colors.
+Check out what I use in my [.bash_profile](https://github.com/amajor/workstation/tree/master/bash-profile) for terminal setup.
