@@ -43,7 +43,7 @@ https://github.com/JohnCoates/Aerial
 
 A nice app for keeping track of time differences for distrubuted teams.
 
-https://github.com/abhishekbanthia/Clocker/?ref=ClockerApp
+https://github.com/abhishekbanthia/Clocker
 
 ## Terminal
 
