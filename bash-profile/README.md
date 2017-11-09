@@ -1,5 +1,11 @@
 # Terminal
 
+You can either install [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) or use the default Terminal app.
+
+If you decide to try out Oh My Zsh, check out my settings [here](https://github.com/amajor/workstation/tree/master/oh-my-zsh).
+
+If you want to stick with the default on your Mac, keep reading!
+
 ![My Terminal](https://github.com/amajor/workstation/blob/master/bash-profile/Terminal.png)
 
 Insert this into the file `~/.bash_profile` to set up your terminal.
