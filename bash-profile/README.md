@@ -1,3 +1,7 @@
+# Terminal
+
+![My Terminal](https://github.com/amajor/workstation/blob/master/bash-profile/Terminal.png)
+
 Insert this into the file `~/.bash_profile` to set up your terminal.
 
 ```bash
