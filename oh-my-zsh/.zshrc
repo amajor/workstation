@@ -10,11 +10,8 @@ ZSH_THEME="alisonmajor"
 # Aliases
 alias be="bundle exec"
 alias ber="be rake"
-# alias subl="’/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'"
-alias subl='open -a "Sublime Text"'
-export EDITOR="subl"
-alias zshconfig="subl ~/.zshrc"
-alias ohmyzsh="subl ~/.oh-my-zsh"
+alias zshconfig="atom ~/.zshrc"
+alias ohmyzsh="atom ~/.oh-my-zsh"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
@@ -53,22 +50,3 @@ alias ohmyzsh="subl ~/.oh-my-zsh"
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
-
-# User configuration
-
-export PATH="/usr/local/share/npm/bin:/usr/local/bin:/usr/local/heroku/bin:/Users/amajor/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/sm/bin:/opt/sm/pkg/active/bin:/opt/sm/pkg/active/sbin"
-# export MANPATH="/usr/local/man:$MANPATH"
-
-# # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
-
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
-# ssh
-# export SSH_KEY_PATH="~/.ssh/dsa_id"
-
