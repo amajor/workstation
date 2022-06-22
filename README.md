@@ -35,6 +35,39 @@ https://rectangleapp.com/
 
 https://obsidian.md/download
 
+#### Preferred Options
+
+Leave all defaults unless noted.
+
+- **Appearance**
+  - Theme --> Manage
+  - Install `Blue Topaz`
+
+- **Files & Links:** mostly all defaults
+  - Default location for new attachments: _In the folder specified below_
+  - Attachment folder path: _Attachments_
+
+- **Community Plugins:**
+  - Safe mode: _off_
+  - Community Plugins:
+    - _Calendar_ by Liam Cain
+    - _Periodic Notes_ by Liam Cain
+
+**Plugin Options**
+- **Periodic Notes** (do first)
+  - Turn on **Daily Notes**
+  - Format: `gggg/MM - MMMM/[Week] ww/YYYY-MM-DD dddd`
+  - Daily Note Template: `Templates/Daily Notes - TEMPLATE.md`
+  - Note Folder: `Planner`
+- **Weekly Notes**
+  - Format: `gggg/MM - MMMM/[Week] ww/YYYY-MM-00 [Week] ww`
+  - Weekly Note Template: `Templates/Weekly Notes - TEMPLATE.md`
+  - Note Folder: `Planner`
+- **Monthly Notes**
+  - Format: `gggg/MM - MMMM/YYYY-MM - MMMM`
+  - Monthly Note Template: `Templates/Montly Notes - TEMPLATE.md`
+  - Note Folder: `Planner`
+
 ## Sometimes Nice
 
 ### Dropbox
