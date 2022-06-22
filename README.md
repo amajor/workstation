@@ -4,9 +4,9 @@ bit faster.
 
 ## Applications
 
-### Atom
+### VSCode
 
-https://atom.io/
+https://code.visualstudio.com/download
 
 ### Slack
 
@@ -26,6 +26,16 @@ https://www.google.com/chrome/browser/features.html
 ### Alfred
 
 https://www.alfredapp.com/
+
+### Rectangle
+
+https://rectangleapp.com/
+
+### Obsidian
+
+https://obsidian.md/download
+
+## Sometimes Nice
 
 ### Dropbox
 
