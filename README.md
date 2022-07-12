@@ -93,3 +93,7 @@ https://github.com/abhishekbanthia/Clocker
 Try using [iTerm](https://iterm2.com/index.html).
 
 Check out what I use in my [.bash_profile](https://github.com/amajor/workstation/tree/master/bash-profile) for terminal setup.
+
+## Fig
+
+https://fig.io/
